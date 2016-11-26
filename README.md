@@ -3,6 +3,8 @@
 
 A curated collection of awesome web typography articles.
 
+## [My Awesome Type Links](./my-awesome-type-links.md)
+
 ## Articles
 
 - [The Future of Web Fonts](https://viljamis.com/2016/the-future-of-web-fonts/)
@@ -70,6 +72,7 @@ A curated collection of awesome web typography articles.
 - [Practical Typography](http://practicaltypography.com/)
 - [Combining Typefaces: Free guide to great typography](http://blog.typekit.com/2016/04/29/combining-typefaces-free-guide-to-great-typography/)
 - [The Typography Handbook](http://typographyhandbook.com/)
+
 
 ## Font Combinations
 - [Type Genius](http://www.typegenius.com/)
