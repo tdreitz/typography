@@ -59,7 +59,7 @@
 
 ## TOOLS
 
-  #### COMPATIBILITY
+#### COMPATIBILITY
   - [fontfamly.io - _compatibility table for default local fonts_](http://fontfamily.io/)
   - [cssFontStack](http://www.cssfontstack.com/)
 
