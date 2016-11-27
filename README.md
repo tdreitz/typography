@@ -7,7 +7,8 @@ A curated collection of awesome web typography articles.
 
 ## Articles
 
-- [The Future of Web Fonts](https://viljamis.com/2016/the-future-of-web-fonts/)
+- ~~[The Future of Web Fonts](https://viljamis.com/2016/the-future-of-web-fonts/)~~
+  - [Further Reading](https://viljamis.com/2016/the-future-of-web-fonts/#further-reading)
 - [Your Body Text Is Too Small](https://medium.com/@xtianmiller/your-body-text-is-too-small-5e02d36dc902#.w1wdaeqzo)
 - [Methods for Controlling Spacing in Web Typography](https://css-tricks.com/methods-controlling-spacing-web-typography/)
 - [Bold or Italic](http://practicaltypography.com/bold-or-italic.html)
