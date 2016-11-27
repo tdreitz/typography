@@ -1,12 +1,12 @@
 # Addendum to [_Awesome Web Typogrphy_](README.md)
 
-[Comprehensive Guide To Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
-[FOUT - Flash Of Unstyled Text](https://css-tricks.com/fout-foit-foft/)
-[Variable Fonts - _Typekit Blog_](http://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/)
-[Chronicle Text - Grades feature _Hoefler & Co._](http://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/)
-[CSS Fonts Module, Level 4](https://drafts.csswg.org/css-fonts-4/)
-[OpenType Specification - _Microsoft_](https://www.microsoft.com/en-us/Typography/OpenTypeSpecification.aspx)
-[Web Fonts - _MDN_](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts)
+-[Comprehensive Guide To Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
+-[FOUT - Flash Of Unstyled Text](https://css-tricks.com/fout-foit-foft/)
+-[Variable Fonts - _Typekit Blog_](http://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/)
+-[Chronicle Text - Grades feature _Hoefler & Co._](http://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/)
+-[CSS Fonts Module, Level 4](https://drafts.csswg.org/css-fonts-4/)
+-[OpenType Specification - _Microsoft_](https://www.microsoft.com/en-us/Typography/OpenTypeSpecification.aspx)
+-[Web Fonts - _MDN_](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts)
 
 ## BLOGS
   - [**A List Apart**/_typography-&-web-fonts_](http://alistapart.com/topic/typography-web-fonts)
