@@ -36,6 +36,7 @@
 
 
   - [Programming Fonts - _test drive over free programming fonts_](http://app.programmingfonts.org/)
+  - [Top Monospaced Fonts For Coding - _Ronalds Vilcins_](https://frontendcurated.com/top-monospaced-fonts-for-coding-a7d941a143fe#.gv0wlrqyj)
 
 
 ## FOUNDRIES
